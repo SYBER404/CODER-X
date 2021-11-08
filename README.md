@@ -1,1 +1,3 @@
 # CODER-X
+
+### SILAHKAN DI PELAJARI !!!
