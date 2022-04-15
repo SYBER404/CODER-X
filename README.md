@@ -4,4 +4,15 @@
 ### REVERSE ENGINEERING
 
 
-[clik here](https://github.com/SYBER404/PDF/blob/main/data/TERMUX.pdf)
+
+https://github.com/SYBER404/enc-lambda
+
+https://github.com/SYBER404/lambda
+
+https://github.com/SYBER404/enc-py2
+
+https://github.com/SYBER404/Encode
+
+https://github.com/SYBER404/enc-py2-1
+
+https://github.com/SYBER404/PYENC
