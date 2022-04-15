@@ -12,4 +12,4 @@
 
 • [encrypt pyc + lambda & marshal](https://github.com/SYBER404/enc-py2-1)
 
-• [encrypt all encrypt ](https://github.com/SYBER404/PYENC)
+• [encrypt all encrypt python 2 ](https://github.com/SYBER404/PYENC)
